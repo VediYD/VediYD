@@ -50,7 +50,7 @@ I’ve crossed paths with some databases and tools that helped make all the data
 
 ## 🔭 Currently Plotting...
 
-My current coding obsession involves this fascinating project where I’m [insert project here]. I won’t spoil the surprise, but stay tuned for updates. 😉
+My current coding obsession involves this fascinating project where I’m finetuning a shallow LLM model (well Im trying to keep it light weight), to spit out Mermaid.js syntax so I WONT HAVE TO DO DOCUMENTATION EVER AGAIN!! ... I mean, I won’t spoil the surprise, but stay tuned for updates. 😉
 
 ---
 
