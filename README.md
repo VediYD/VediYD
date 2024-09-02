@@ -2,7 +2,7 @@
 
 Hey there! I’m Yash, a machine-learning wizard by day and a human who occasionally takes breaks to explore reality by night (or at least until the coffee runs out ☕). If you’re looking for a curious mind that’s always ready to tackle the next interesting problem or an obsessive coder who thrives on "just one more bug to squash," well, you’ve come to the right place.
 
-![Hits](https://badges.pufler.dev/visits/VediYD/VediYD) 👀
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVediYD%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=ghost.svg&icon_color=%23FFFFFF) 👀
 
 ---
 
