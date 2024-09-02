@@ -2,6 +2,8 @@
 
 Hey there! I’m Yash, a machine-learning wizard by day and a human who occasionally takes breaks to explore reality by night (or at least until the coffee runs out ☕). If you’re looking for a curious mind that’s always ready to tackle the next interesting problem or an obsessive coder who thrives on "just one more bug to squash," well, you’ve come to the right place.
 
+![Hits](https://badges.pufler.dev/visits/VediYD/VediYD) 👀
+
 ---
 
 ## 🔬 What Am I Really Up To?
@@ -17,11 +19,9 @@ If I'm not doing one of the above, I’m probably sitting somewhere, sipping cof
 ---
 
 ## ⚡ Quick Facts (Because Why Not?)
-
-- ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 🐍 – Enough to be dangerous... but also to build some pretty cool stuff.
-- ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) 📊 - When I need to get my stats on.
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) + ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 🚀 – Occasionally moonlight as a front-end/back-end hybrid.
-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 💻– Kinda wanna learn how to make games using ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white). And this is where it begins, or so people tell me... 
+|   |   |
+|---|---|
+|<ul><li><img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"> – Enough to be dangerous... but also to build some pretty cool stuff.</li><li><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white"> - When I need to get my stats on.</li><li><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"><img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"> – Occasionally moonlight as a front-end/back-end hybrid.</li><li><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"> – Kinda wanna learn how to make games using <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white">. And this is where it begins, or so people tell me...</li></ul>|![](https://github-readme-stats.vercel.app/api/top-langs/?username=VediYD&theme=dark)|
 
 ---
 
@@ -80,6 +80,12 @@ More nerdy goodness awaits in my pinned repos.
 ## 🔭 Currently Plotting...
 
 My current coding obsession involves this fascinating project where I’m finetuning a shallow LLM model (well Im trying to keep it light weight), to spit out Mermaid.js syntax so I WONT HAVE TO DO DOCUMENTATION EVER AGAIN!! ... I mean, I won’t spoil the surprise, but stay tuned for updates. 😉
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=VediYD&theme=tokyo-night)
+
+|   |   |
+|---|---|
+|![](https://github-readme-streak-stats.herokuapp.com/?user=VediYD&theme={theme_name}&theme=tokyonight)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VediYD&theme=tokyonight)|
 
 ---
 
