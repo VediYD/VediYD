@@ -18,11 +18,10 @@ If I'm not doing one of the above, I’m probably sitting somewhere, sipping cof
 
 ## ⚡ Quick Facts (Because Why Not?)
 
-- **Python Scripting:** 🐍 – Enough to be dangerous... but also to build some pretty cool stuff.
-- **R Programming:** 📊 - When I need to get my stats on.
-- **MATLAB Scripting:** 🤖 – Because robots and equations sometimes just need MATLAB love.
-- **JavaScript + NodeJS:** 🚀 – Occasionally moonlight as a front-end/back-end hybrid.
-- **C++:** 💻– Kinda wanna learn how to make games using Unreal. And this is where it begins, or so people tell me... 
+- ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 🐍 – Enough to be dangerous... but also to build some pretty cool stuff.
+- ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) 📊 - When I need to get my stats on.
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) + ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 🚀 – Occasionally moonlight as a front-end/back-end hybrid.
+- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 💻– Kinda wanna learn how to make games using ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white). And this is where it begins, or so people tell me... 
 
 ---
 
@@ -34,17 +33,47 @@ I've got my trusty toolbelt of libraries that help make the magic happen, like:
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
 
 More nerdy goodness awaits in my pinned repos.
 
 ---
 
 ## 🛠️ Solutions I've Fiddled With
+### ️ CI/CD Tools
 
-I’ve crossed paths with some databases and tools that helped make all the data-wrangling a bit smoother:
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)
 
-- **PostgreSQL**, **MongoDB**, **SQLite**, **VectorDB**, **Snowflake**, and the usual culprits.
-- Tools like **Jira**, **Confluence**, **PyCharm** (with just a hint of "How did that bug sneak in?").
+### ️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+
+###  Project Management & Collaboration
+
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)
+
+### ️ Development Tools
+
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=flat&logo=rstudio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+
+###  Cloud Platforms
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 
 ---
 
