@@ -11,7 +11,7 @@ Hey there! I’m Yash, a machine-learning wizard by day and a human who occasion
 When I'm not knee-deep in Python scripts or machine learning models, you'll either find me:
 
 - 🌲 **Hiking** up the nearest mountain (or at least pretending to while daydreaming about code)
-- 📚 **Reading** obscure books (sometimes because they remind me of debugging errors)
+- 📚 **Reading** obscure books (sometimes because they remind me of debugging errors). See: [Recent Reads](#recent-reads)
 - 🏃‍♂️ **Jogging** (so I can justify the snack breaks during coding sprints)
 
 If I'm not doing one of the above, I’m probably sitting somewhere, sipping coffee, and plotting out my next project or world domination plan (don’t worry, it involves more coding than actual world domination... for now).
@@ -88,6 +88,22 @@ My current coding obsession involves this fascinating project where I’m finetu
 |![](https://github-readme-streak-stats.herokuapp.com/?user=VediYD&theme={theme_name}&theme=tokyonight)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VediYD&theme=tokyonight)|
 
 ---
+
+## 📚 Recent Reads & All-Time Favorites
+### Recent Reads:
+
+* The Grieving Brain by Mary-Frances O'Connor, PhD – Explores the neuroscience of grief and loss. I like reading about neurobiology, and drawing parallels to the inner workings of Deep Neural Networks.
+* An Abundance of Katherines by John Green – A fun, unexpected read recommended by a friend. A story about a guy who dates and is dumped by 19 different Katherines.
+
+### All-Time Favorites:
+
+* The Fountainhead by Ayn Rand – A powerful exploration of purpose and individualism that shaped my younger years.
+* Atlas Shrugged by Ayn Rand – A thought-provoking continuation of her philosophy on human existence.
+* For Whom the Bell Tolls by Ernest Hemingway – A poignant story that helped me see human lives as deeply interconnected, counteracting Rand’s hyper-individualism.
+* The Metamorphosis by Franz Kafka – A stark and surreal exploration of alienation and identity.
+* Crime and Punishment & The House of the Dead by Fyodor Dostoevsky – Classic deep dives into morality and the human soul.
+* Murder Must Advertise by Dorothy L. Sayers – A thrilling read that keeps you on your toes.
+* The Hitchhiker's Guide to the Galaxy by Douglas Adams – A witty and clever sci-fi adventure with absurdly fun moments.
 
 ## 🎯 Final Thoughts
 
