@@ -81,12 +81,7 @@ More nerdy goodness awaits in my pinned repos.
 
 My current coding obsession involves this fascinating project where I’m finetuning a shallow LLM model (well Im trying to keep it light weight), to spit out Mermaid.js syntax so I WONT HAVE TO DO DOCUMENTATION EVER AGAIN!! ... I mean, I won’t spoil the surprise, but stay tuned for updates. 😉
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=VediYD&theme=tokyo-night)
-
-|   |   |
-|---|---|
-|![](https://github-readme-streak-stats.herokuapp.com/?user=VediYD&theme={theme_name}&theme=tokyonight)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VediYD&theme=tokyonight)|
-
+Oh! And the Agenomics project where I attempt to keep up with the fast paced progress in the AI space. 
 ---
 
 ## 📚 Recent Reads & All-Time Favorites
