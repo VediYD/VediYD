@@ -90,10 +90,19 @@ My current coding obsession involves this fascinating project where I’m finetu
 ---
 
 ## 📚 Recent Reads & All-Time Favorites
-### Recent Reads:
 
+### Current reading list
+* A Little Life by Hanya Yanagihara (currently reading) – Deep, immersive, and emotionally intense. I’ve barely reached the quarter mark and already find myself pacing my reading to appreciate it fully. It’s made me reflect on how much I’ve changed over time and how deeply certain stories can resonate.
+* Ikigai by Hector Garcia & Francesc Miralles - Next to read
+* Binding 13 by Chloe Walsh - A hard maybe. Undecided.
+
+### Read last year:
 * The Grieving Brain by Mary-Frances O'Connor, PhD – Explores the neuroscience of grief and loss. I like reading about neurobiology, and drawing parallels to the inner workings of Deep Neural Networks.
 * An Abundance of Katherines by John Green – A fun, unexpected read recommended by a friend. A story about a guy who dates and is dumped by 19 different Katherines.
+* Stillwater by Tanya Scott – The debut novel of a good friend and an incredible storyteller. I was fortunate to attend the launch and was captivated by the narrative. A thoughtful, engaging read that left me excited for her next release.
+* Forward the Foundation by Isaac Asimov – A prequel in the Foundation universe that I discovered mid-series. I realized halfway through that I’d read the books out of order, so I skipped a few chapters to come back to them later — a good problem to have as a lover of sci-fi lore.
+* Drop Bear by Evelyn Araluen – My first poetry collection, bought in Tasmania during a business trip. I don’t usually read poetry, but this has been a rewarding learning experience in slowing down and savoring language.
+* If He Had Been With Me and Twice by Mitch Albom – I’m a bit reluctant to call myself a romance reader, but these books were meaningful in unexpected ways. Worth mentioning even if they pushed me slightly outside my comfort zone.
 
 ### All-Time Favorites:
 
