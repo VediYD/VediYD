@@ -2,7 +2,9 @@
 
 Hey there! I’m Yash, a machine-learning wizard by day and a human who occasionally takes breaks to explore reality by night (or at least until the coffee runs out ☕). If you’re looking for a curious mind that’s always ready to tackle the next interesting problem or an obsessive coder who thrives on "just one more bug to squash," well, you’ve come to the right place.
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVediYD%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=ghost.svg&icon_color=%23FFFFFF) 👀
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FVediYD&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC) 👀 
+
+(the project [hit-counter](https://github.com/gjbae1212/hit-counter) was archived in 2025 resetting my counter 😢)
 
 ---
 
@@ -11,7 +13,7 @@ Hey there! I’m Yash, a machine-learning wizard by day and a human who occasion
 When I'm not knee-deep in Python scripts or machine learning models, you'll either find me:
 
 - 🌲 **Hiking** up the nearest mountain (or at least pretending to while daydreaming about code)
-- 📚 **Reading** obscure books (sometimes because they remind me of debugging errors). See: [Recent Reads](#recent-reads)
+- 📚 **Reading** obscure books (sometimes because they remind me of debugging errors). See: [Recent Reads](#-recent-reads)
 - 🏃‍♂️ **Jogging** (so I can justify the snack breaks during coding sprints)
 
 If I'm not doing one of the above, I’m probably sitting somewhere, sipping coffee, and plotting out my next project or world domination plan (don’t worry, it involves more coding than actual world domination... for now).
