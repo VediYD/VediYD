@@ -82,14 +82,15 @@ More nerdy goodness awaits in my pinned repos.
 My current coding obsession involves this fascinating project where I’m finetuning a shallow LLM model (well Im trying to keep it light weight), to spit out Mermaid.js syntax so I WONT HAVE TO DO DOCUMENTATION EVER AGAIN!! ... I mean, I won’t spoil the surprise, but stay tuned for updates. 😉
 
 Oh! And the Agenomics project where I attempt to keep up with the fast paced progress in the AI space. 
+
 ---
 
-## 📚 Recent Reads & All-Time Favorites
+## 📚 Recent Reads
 
 ### Current reading list
 * A Little Life by Hanya Yanagihara (currently reading) – Deep, immersive, and emotionally intense. I’ve barely reached the quarter mark and already find myself pacing my reading to appreciate it fully. It’s made me reflect on how much I’ve changed over time and how deeply certain stories can resonate.
 * Ikigai by Hector Garcia & Francesc Miralles - Next to read
-* Binding 13 by Chloe Walsh - A hard maybe. Undecided.
+* Binding 13 by Chloe Walsh, Heart the Lover by Lily King, What did I miss by Holly Brunnbauer - A hard maybe. Undecided. Bonus points to Lily King because one of the characters is named Yash XD
 
 ### Read last year:
 * The Grieving Brain by Mary-Frances O'Connor, PhD – Explores the neuroscience of grief and loss. I like reading about neurobiology, and drawing parallels to the inner workings of Deep Neural Networks.
